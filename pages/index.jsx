@@ -32,30 +32,12 @@ const Page = () => {
   return (
     <Layout>
       <Container>
-        <Box
-          borderRadius="lg"
-          bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
-          p={3}
-          mt={2}
-          mb={6}
-          align="center"
-        >
-          Hey! I&apos;m currently exploring new domains in climate tech. <br />
-          If you&apos;re down to talk climate, hit this{' '}
-          <Link href="https://calendly.com/ahnaafk/" target="_blank">
-            link
-          </Link>{' '}
-          or send me an{' '}
-          <Link href="mailto:ahnaaf@neuradao.to" target="_blank">
-            email!
-          </Link>
-        </Box>
         <Box display={{ md: 'flex' }}>
           <Box flexGrow={1}>
             <Heading as="h2" variant="page-title">
-              Ahnaaf Khan
+              Boats n' Floats
             </Heading>
-            <p>Founder & Developer</p>
+            <p>Floatation Device Company</p>
           </Box>
           <Box
             flexShrink={8}
@@ -77,45 +59,18 @@ const Page = () => {
         </Box>
         <Section delay={0.1}>
           <Heading as="h3" variant="section-title">
-            As a builder.
+            WE LAUNCH ON THE JUNE 7TH.
           </Heading>
           <Text text-align="centered">
-            I’m a 17 y/o self-taught web2 + web3 + neurotech developer and
-            graphic designer. Currently, I&apos;m figuring out what's next for me in ClimateTech.
-            <br />
-            <br />
-            <Text as={'b'}>Stack:</Text> Figma, ReactJS, Python, DaVinci
-            Resolve, Brain-Computer Interfaces.
-            <br />
-            <Text as={'b'}>Learning:</Text> NextJs, Solidity, PyTorch.
+            Cheer us on as we go big slatt slime.
           </Text>
           <br />
           <Text as="u" mt={'1rem'}>
             <Text as="b">Past experiences:</Text>
           </Text>
           <UnorderedList mt={'1rem'}>
-            <ListItem>Failed Founder @ NeuraDAO</ListItem>
-            <ListItem>R&D Intern @ Muse</ListItem>
-            <ListItem>PM @ Apollo</ListItem>
-            <ListItem>Spoke @ Collision, ETHAmsterdam</ListItem>
-            <ListItem>Alumni @ TKS Activate</ListItem>
+            <ListItem>Physics Student Won the PHysics award</ListItem>
           </UnorderedList>
-          <Section delay={0.2}>
-            <Heading as={'h3'} variant="sub-section-title">
-              As a human.
-            </Heading>
-
-            <Text text-align="centered" mt={4}>
-              In this stage of my life, I&apos;m exploring the world of tech,
-              while writing & tweeting about my journey. <br />
-              <br />I learned a lot throughout TKS about social
-              entrepreneurship, problem-solving, and emerging tech. Now I&apos;m
-              currently learning about how much I don&apos;t know. <br />
-              <br /> Currently reading Thiel, Harari, Naval, Chamath, Clear, and
-              Gates, while listening to Huberman, Parrish, Kanye (his music
-              only), Fridman, and Astro Teller.
-            </Text>
-          </Section>
         </Section>
         <Section>
           <Heading as="h3" variant="section-title">
@@ -142,7 +97,7 @@ const Page = () => {
 
         <Section delay={0.3}>
           <Heading as="h3" variant="section-title">
-            Connect w/ me.
+            Connect w/ da SQUAAAD.
           </Heading>
           <List>
             <ListItem>
