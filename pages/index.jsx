@@ -35,7 +35,7 @@ const Page = () => {
         <Box display={{ md: 'flex' }}>
           <Box flexGrow={1}>
             <Heading as="h2" variant="page-title">
-              Boats n' Floats
+              Boats n Floats
             </Heading>
             <p>Floatation Device Company</p>
           </Box>
