@@ -1,0 +1,31 @@
+{
+  "name": "boats-n-floats",
+  "version": "1.0.0",
+  "description": "Boats n Floats Site Babyyy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "prettier": "prettier -write .",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "Ahnaaf Khan <ahnaafk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.11",
+    "@chakra-ui/react": "^2.3.6",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "framer-motion": "^7.6.1",
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-next": "^12.3.1",
+    "prettier": "^2.7.1"
+  }
+}
